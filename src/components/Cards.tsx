@@ -38,7 +38,7 @@ export default function Cards() {
       </div>
 
       <div className="xl:absolute border-indigo-500 z-50 left-[50%] xl:rotate-45 
-      max-xl:w-full max-xl:mx-6 xl:h-[calc(80vh)] xl:-translate-y-[80px] border-[1.2px] border-dashed"/>
+      max-xl:w-full max-xl:mx-6 xl:h-[calc(80vh)] xl:-translate-y-[60px] border-[1.2px] border-dashed"/>
 
       <div className="w-1/2 xl:h-[calc(80vh-160px)] items-end flex justify-end flex-col gap-8 max-xl:w-full">
         <img
